@@ -1,0 +1,18 @@
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .dark-mode .navbar {
+    background-color: #222 !important;
+  }
+  
+  .dark-mode .table {
+    color: #fff;
+  }
+  
+  .dark-mode .thead-dark th {
+    background-color: #444;
+    color: #fff;
+  }
+  
